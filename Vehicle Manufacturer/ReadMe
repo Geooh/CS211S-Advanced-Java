@@ -1,0 +1,3 @@
+Program makes use of extends, implements, and ENUM.
+
+The program has pre-selected array objects that tests and returns availability of vehicle stock, model, and color. Also returns test drive availability if the vehicle is in stock.
